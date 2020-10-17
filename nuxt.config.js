@@ -75,5 +75,12 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
+    extend (config, { isDev, isClient }) {
+      config.module.rules.push({
+        test: /\.md$/,
+        loader: 'raw-loader',
+        exclude: /(node_modules)/,
+      });
+    },
   }
 }

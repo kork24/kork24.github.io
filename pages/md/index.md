@@ -27,6 +27,7 @@
 | Sev              | しろくろ       | 塩化ナトリウム   |            | 
 | Smiley           | ずけ           | 小夜             |            | 
 
+<div class="coop-overfishing-title normal"><span>Normal Rotation</span></div>
 
 | 通常編成確認済み |            |                | 
 | ----------------------- | ---------- | -------------- | 
@@ -55,6 +56,8 @@
 | アシックス              | フィル     |                | 
 | あのにます              | ぽんこつ   |                | 
 | あまぞら                | ミカサ     |                | 
+
+<div class="coop-overfishing-title golden"><span>Grizzco Rotation</span></div>
 
 | 黄金編成のみ| 
 | ------------------- | 

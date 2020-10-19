@@ -14,7 +14,7 @@
 
 <script>
 import marked from "marked";
-import markDownSource from "./md/index.md";
+import markDownSource from "~/pages/md/index.md";
 
 export default {
   computed: {
@@ -180,5 +180,22 @@ h2,
 h3 {
   margin: 0;
   padding: 0;
+}
+</style>
+
+<style lang="scss">
+div {
+  .coop-overfishing-title {
+    text-align: center;
+    font-size: 24px;
+
+    &.normal {
+      color: yellowgreen;
+    }
+
+    &.golden {
+      color: yellow;
+    }
+  }
 }
 </style>

@@ -17,3 +17,13 @@ export default {
   }
 };
 </script>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+#app {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+table {
+  width: 80%;
+}
+</style>

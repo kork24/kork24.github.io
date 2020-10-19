@@ -184,6 +184,18 @@ h3 {
 </style>
 
 <style lang="scss">
+@font-face {
+  font-family: "SplatFont";
+  src: url("~@/assets/fonts/Splatfont.woff") format("woff"),
+    url("~@/assets/fonts/Splatfont.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "SplatFont2";
+  src: url("~@/assets/fonts/Splatfont2.woff") format("woff"),
+    url("~@/assets/fonts/Splatfont2.woff2") format("woff2");
+}
+
 div {
   .coop-overfishing-title {
     text-align: center;
@@ -196,6 +208,10 @@ div {
     &.golden {
       color: yellow;
     }
+  }
+
+  table {
+    text-align: center;
   }
 }
 </style>

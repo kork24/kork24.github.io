@@ -16,7 +16,8 @@
     "core-js": "^3.6.5",
     "nuxt": "^2.14.6",
     "marked": "1.2.0",
-    "raw-loader": "4.0.2"
+    "raw-loader": "4.0.2",
+    "nuxt-sass-resources-loader": "2.0.5"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.11.2",

@@ -46,6 +46,10 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    'nuxt-sass-resources-loader'
+  ],
+  sassResources: [
+    '@/assets/scss/style.scss'
   ],
 
   // Axios module configuration (https://go.nuxtjs.dev/config-axios)
@@ -75,7 +79,7 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
-    extend (config, { isDev, isClient }) {
+    extend(config, { isDev, isClient }) {
       config.module.rules.push({
         test: /\.md$/,
         loader: 'raw-loader',

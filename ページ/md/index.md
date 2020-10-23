@@ -1,6 +1,5 @@
 
-<div class="coop-overfishing-title player"><span>Players Name</span></div>
-<div class="coop-overfishing-title player2"><span>total：79</span></div>
+<div class="coop-overfishing-title names"><span>Names total:79</span></div>
 
 |  |                |                  |            | 
 | ---------------- | -------------- | ---------------- | ---------- | 
@@ -30,8 +29,7 @@
 | Sev              | しろくろ       | 塩化ナトリウム   |            | 
 | Smiley           | ずけ           | 小夜             |            | 
 
-<div class="coop-overfishing-title normal"><span>Normal Rotation</span></div>
-<div class="coop-overfishing-title normal2"><span>total：59</span></div>
+<div class="coop-overfishing-title normal"><span>Normal Rotation total:59</span></div>
 
 | |            |            |                | 
 | ----------------| ---------- | ---------- | -------------- | 
@@ -51,11 +49,10 @@
 | Noa             | おかず     | にく       | 吹雪           | 
 | pon             | ガンジー   | ねごねご   |                | 
 
-<div class="coop-overfishing-title golden"><span>Grizzco Rotation</span></div>
-<div class="coop-overfishing-title golden2"><span>total：20</span></div>
+<div class="coop-overfishing-title golden"><span>Grizzco Rotation total:20</span></div>
 
-|   |   |   |   |
-| ---------------- | ---- | ---- | ---- |
+| | |||
+| ---------------- |  |  |  |
 | alk              | Pnkd | ra1ch1 | sel |
 | Sess             | あ | うにゃ | けん2 |
 | けんけん          | さしえだ | さぽ | たこツボ |

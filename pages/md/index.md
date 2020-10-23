@@ -1,5 +1,7 @@
 
-| 200経験者 |                |                  |            | 
+<div class="coop-overfishing-title names"><span>Names total:79</span></div>
+
+|  |                |                  |            | 
 | ---------------- | -------------- | ---------------- | ---------- | 
 | alk              | ST             | すごろく         | 雑草       | 
 | Andslg           | Vallu          | たこツボ         | 高床式倉庫 | 
@@ -27,62 +29,32 @@
 | Sev              | しろくろ       | 塩化ナトリウム   |            | 
 | Smiley           | ずけ           | 小夜             |            | 
 
-<div class="coop-overfishing-title normal"><span>Normal Rotation</span></div>
+<div class="coop-overfishing-title normal"><span>Normal Rotation total:59</span></div>
 
-| 通常編成確認済み |            |                | 
-| ----------------------- | ---------- | -------------- | 
-| Andslg                  | いかすみP  | みくり         | 
-| Brian                   | いっさい   | みゆみゆー     | 
-| Doopl                   | おーちゃん | もぐら         | 
-| Drake                   | おかず     | モット         | 
-| Dreykopff               | ガンジー   | やちもも       | 
-| Dusty                   | けいあい   | ゆうと         | 
-| Fahim                   | けむし     | よしだ         | 
-| gaku                    | けんしろ   | 塩化ナトリウム | 
-| Leia                    | ここた     | 吹雪           | 
-| Marty                   | こるく     |                | 
-| Mick                    | さわだ     |                | 
-| Minalaii                | シアロア   |                | 
-| Mystwalker              | しろくろ   |                | 
-| Noa                     | ずけ       |                | 
-| pon                     | すごろく   |                | 
-| sameet                  | ちゃんゆり |                | 
-| Sev                     | デミソース |                | 
-| Reyko                   | ナイト     |                | 
-| Ricarnaldo              | にく       |                | 
-| Smiley                  | ねごねご   |                | 
-| ST                      | はっち     |                | 
-| Vallu                   | はてなん   |                | 
-| アシックス              | フィル     |                | 
-| あのにます              | ぽんこつ   |                | 
-| あまぞら                | ミカサ     |                | 
+| |            |            |                | 
+| ----------------| ---------- | ---------- | -------------- | 
+| Andslg          | sameet     | けいあい   | はっち         | 
+| Brian           | Sev        | けむし     | はてなん       | 
+| Doopl           | Reyko      | けんしろ   | フィル         | 
+| Drake           | Ricarnaldo | ここた     | ぽんこつ       | 
+| Dreykopff       | Smiley     | こるく     | ミカサ         | 
+| Dusty           | ST         | さわだ     | みくり         | 
+| Fahim           | Vallu      | シアロア   | みゆみゆー     | 
+| gaku            | アシックス | しろくろ   | もぐら         | 
+| Leia            | あのにます | ずけ       | モット         | 
+| Marty           | あまぞら   | すごろく   | やちもも       | 
+| Mick            | いかすみP  | ちゃんゆり | ゆうと         | 
+| Minalaii        | いっさい   | デミソース | よしだ         | 
+| Mystwalker      | おーちゃん | ナイト     | 塩化ナトリウム | 
+| Noa             | おかず     | にく       | 吹雪           | 
+| pon             | ガンジー   | ねごねご   |                | 
 
-<div class="coop-overfishing-title golden"><span>Grizzco Rotation</span></div>
+<div class="coop-overfishing-title golden"><span>Grizzco Rotation total:20</span></div>
 
-| 黄金編成のみ| 
-| ------------------- | 
-| alk                 | 
-| Pnkd                | 
-| ra1ch1              | 
-| sel                 | 
-| Sess                | 
-| あ                  | 
-| うにゃ              | 
-| けん2               | 
-| けんけん            | 
-| さしえだ            | 
-| さぽ                | 
-| たこツボ            | 
-| ツボようかん        | 
-| はとり              | 
-| やま                | 
-| リオデジャネイロ    | 
-| 小夜                | 
-| 雑草                | 
-| 高床式倉庫          | 
-| 匿名                | 
-|                     | 
-|                     | 
-|                     | 
-|                     | 
-|                     | 
+| | |||
+| ---------------- |  |  |  |
+| alk              | Pnkd | ra1ch1 | sel |
+| Sess             | あ | うにゃ | けん2 |
+| けんけん          | さしえだ | さぽ | たこツボ |
+| ツボようかん      | はとり | やま | リオデジャネイロ |
+| 小夜             | 雑草 | 高床式倉庫 | 匿名 |

@@ -235,19 +235,19 @@ p#vh {
     }
   }
 
-  table {
-    text-align: left;
-    max-width: 800px;
-    table-layout: fixed;
+  table {テーブル{
+    text-align： left ;
+    最大幅： 800ピクセル;
+    テーブルレイアウト：修正済み;
   }
-  table td 
-  {
-    @media screen and (min-width: 600px) {
-    white-space: nowrap;
-    font-size: 3.0vw;
-  }
-    white-space: nowrap;
-    padding: 0 3px 0 3px;
-    // width: 50px;
+  テーブル td 
+  {{
+    @media  screen  and（max-width：600 px）{
+    空白： nowrap ;
+    フォントサイズ： 2.5 vw ;
+    }
+    //空白：nowrap;
+    パディング： 0  5 px  0  5 px ;
+    //幅：50px;
   }
 </style>

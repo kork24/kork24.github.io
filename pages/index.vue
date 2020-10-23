@@ -199,7 +199,20 @@ h3 {
 div {
   .coop-overfishing-title {
     text-align: center;
-    font-size: 24px;
+    font-size: 25px;
+  }
+  body {
+     font-size: 1.5vw;
+  }
+p#vw {
+  font-size: 5vw;
+}
+p#vh {
+  font-size: 5vh;
+}
+    &.names {
+      color: white;
+    }
 
     &.normal {
       color: yellowgreen;
@@ -211,7 +224,19 @@ div {
   }
 
   table {
-    text-align: center;
+    text-align: left;
+    max-width: 800px;
+    table-layout: fixed;
   }
-}
+  table td 
+  {
+    @media screen and (max-width: 600px) {
+    white-space: nowrap;
+    font-size: 2.5vw;
+
+    }
+    //white-space: nowrap;
+    padding: 0 5px 0 5px;
+    // width: 50px;
+  }
 </style>

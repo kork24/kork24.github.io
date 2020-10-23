@@ -55,7 +55,7 @@
 <div class="coop-overfishing-title golden2"><span>total：20</span></div>
 
 |   |   |   |   |
-| ---------------- |  |  |  |
+| ---------------- | ---- | ---- | ---- |
 | alk              | Pnkd | ra1ch1 | sel |
 | Sess             | あ | うにゃ | けん2 |
 | けんけん          | さしえだ | さぽ | たこツボ |

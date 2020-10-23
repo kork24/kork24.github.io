@@ -170,17 +170,17 @@ div {
   background-image: url(https://app.splatoon2.nintendo.net/images/bundled/b24ee02521f18ebe1bf8b05e1396c3dc.png);
   background-repeat: repeat;
   background-size: 60px 60px;
-  padding: 30px;
+  padding: 20px;
   border-radius: 20px;
   margin-bottom: 24px;
-}
+  } 
 
 h1,
 h2,
 h3 {
   margin: 0;
   padding: 0;
-}
+  }
 </style>
 
 <style lang="scss">
@@ -188,38 +188,50 @@ h3 {
   font-family: "SplatFont";
   src: url("~@/assets/fonts/Splatfont.woff") format("woff"),
     url("~@/assets/fonts/Splatfont.woff2") format("woff2");
-}
+  }
 
 @font-face {
   font-family: "SplatFont2";
   src: url("~@/assets/fonts/Splatfont2.woff") format("woff"),
     url("~@/assets/fonts/Splatfont2.woff2") format("woff2");
-}
+  }
 
 div {
   .coop-overfishing-title {
     text-align: center;
-    font-size: 25px;
+    font-size: 27px;
   }
   body {
      font-size: 1.5vw;
   }
 p#vw {
   font-size: 5vw;
-}
+  }
 p#vh {
   font-size: 5vh;
-}
-    &.names {
+  }
+    &.player {
       color: white;
+    }
+    &.player2 {
+      color:white;
+      font-size: 20px;
     }
 
     &.normal {
       color: yellowgreen;
     }
+    &.normal2 {
+      color: yellowgreen;
+     font-size: 20px;
+    }
 
     &.golden {
       color: yellow;
+    }
+    &.golden2 {
+      color: yellow;
+      font-size: 20px;
     }
   }
 
@@ -230,13 +242,12 @@ p#vh {
   }
   table td 
   {
-    @media screen and (max-width: 600px) {
+    @media screen and (min-width: 600px) {
     white-space: nowrap;
-    font-size: 2.5vw;
-
-    }
-    //white-space: nowrap;
-    padding: 0 5px 0 5px;
+    font-size: 3.0vw;
+  }
+    white-space: nowrap;
+    padding: 0 3px 0 3px;
     // width: 50px;
   }
 </style>

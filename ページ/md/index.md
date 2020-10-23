@@ -54,7 +54,7 @@
 <div class="coop-overfishing-title golden"><span>Grizzco Rotation</span></div>
 <div class="coop-overfishing-title golden2"><span>total：20</span></div>
 
-| | |||
+|   |   |   |   |
 | ---------------- |  |  |  |
 | alk              | Pnkd | ra1ch1 | sel |
 | Sess             | あ | うにゃ | けん2 |
